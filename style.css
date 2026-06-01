@@ -1,0 +1,4 @@
+body{font-family:Arial;margin:40px}
+header{text-align:center}
+.cars{display:flex;gap:20px}
+.card{border:1px solid #ccc;padding:15px}
